@@ -20,13 +20,13 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5
-fov:0.0
+mouseSensitivity:0.24349141725352097
+fov:0.4
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:1.0
-renderDistance:12
+renderDistance:10
 simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:3
